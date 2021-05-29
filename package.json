@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "dev": "cross-env NODE_ENV=development nodemon -r esm app.js",
-    "start": "cross-env NODE_ENV=production node -r esm app.js",
+    "start": "cross-env NODE_ENV=production node -r esm app.js"
   },
   "keywords": [],
   "author": "",
